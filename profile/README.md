@@ -1,0 +1,3 @@
+## www.maluro.com
+Maluro is a real estate investment simulation platform designed to assist users in accurately calculating French taxation and evaluating the profitability of rental investments. The platform offers detailed and personalized simulations, allowing users to adjust parameters such as investment amount, loan duration, and interest rates to gain a clear understanding of long-term returns. It supports various tax regimes, including Micro-Foncier, Régime Réel, LMNP, LMNP IS, Loi Pinel, and Loi Malraux, providing tailored insights based on the chosen regime. Access to Maluro is exclusively available through partner real estate agencies, ensuring clients receive personalized guidance in their investment endeavors.
+
